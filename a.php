@@ -1,3 +1,3 @@
 <?php
 
-echo 'long phẩn';
+echo 'bro';
